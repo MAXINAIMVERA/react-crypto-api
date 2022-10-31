@@ -1,0 +1,17 @@
+.coin-image {
+    width: 5%;
+    margin-right: 1em;
+}
+
+.positive-price {
+    color: green;
+}
+
+.negative-price {
+    color: red;
+}
+
+.symbol {
+    margin-left: 2em;
+    color: grey;
+}
